@@ -1,0 +1,13 @@
+# Python Compile files and Dependencies.
+*.pyc
+*pytest_cache
+*egg-info
+*eggs
+*.tgz
+*build
+deploy_id.json
+
+# IDEs, Tools, Mac hidden files
+.idea/
+.vscode/
+.DS_Store
